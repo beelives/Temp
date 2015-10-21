@@ -31,3 +31,4 @@ if __name__== '__main__':
     stdin,stdout,stderr = s.exec_comma('ls -la /tmp/')
     print stdout.read()
     s.close()
+sdfsdf
